@@ -18,6 +18,7 @@
 ### Languages
 
 [![PHP Badge](https://img.shields.io/badge/-PHP-474A8A?style=for-the-badge&labelColor=black&logo=php&logoColor=474A8A)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-2865f0?style=for-the-badge&labelColor=black&logo=css3&logoColor=274de4)](#) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=Tailwind%20CSS&logoColor=ffffff)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#) [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
 
 ### Databases
 
