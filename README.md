@@ -4,7 +4,7 @@
 
 - 🖖🏻 I'm Lefteris Katmadas
 - 🖥️ I'm currently working from 🏠
-- 🌱 I'm currently learning **React, Gatsby JS**
+- 🌱 I focus on building web apps using **React, Vue**
 - 📫 How to reach me: [Linkedin - @lefteriskatmadas](https://www.linkedin.com/in/lefteriskatmadas/)
 
 ### CMS
